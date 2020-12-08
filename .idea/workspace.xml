@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19d25380-f411-4df0-ae9e-bcd0f6603af1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/personal_crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../params.json" beforeDir="false" afterPath="$PROJECT_DIR$/../params.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jXlBRIMTyGMyL3kGboaqgsVAli" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.personal_crawler">
+    <configuration name="personal_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/personal_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taindp_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taindp_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.personal_crawler" />
+        <item itemvalue="Python.taindp_crawler" />
+        <item itemvalue="Python.scraper" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshExecutablePath" value="ssh waves8@192.168.1.229 -L  2806:127.0.0.1:7070 -i wkey.pem" />
+    <option name="sshPrivateKeyPath" value="$PROJECT_DIR$/../../../wkey.pem" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="663" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607423396819">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="663" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.34.1848.1046@72.34.1848.1046" timestamp="1607423396819" />
+    <state x="726" y="258" width="530" height="605" key="FileChooserDialogImpl" timestamp="1604837290680">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="726" y="258" width="530" height="605" key="FileChooserDialogImpl/72.34.1848.1046@72.34.1848.1046" timestamp="1604837290680" />
+    <state width="453" height="893" key="GridCell.Tab.0.bottom" timestamp="1607423409141">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="453" height="893" key="GridCell.Tab.0.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1607423409141" />
+    <state width="453" height="893" key="GridCell.Tab.0.center" timestamp="1607423409140">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="453" height="893" key="GridCell.Tab.0.center/72.34.1848.1046@72.34.1848.1046" timestamp="1607423409140" />
+    <state width="453" height="893" key="GridCell.Tab.0.left" timestamp="1607423409139">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="453" height="893" key="GridCell.Tab.0.left/72.34.1848.1046@72.34.1848.1046" timestamp="1607423409139" />
+    <state width="453" height="893" key="GridCell.Tab.0.right" timestamp="1607423409140">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="453" height="893" key="GridCell.Tab.0.right/72.34.1848.1046@72.34.1848.1046" timestamp="1607423409140" />
+    <state x="462" y="168" width="1125" height="912" key="SettingsEditor" timestamp="1607393072419">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="462" y="168" width="1125" height="912" key="SettingsEditor/72.34.1848.1046@72.34.1848.1046" timestamp="1607393072419" />
+    <state x="428" y="70" width="1125" height="981" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607396642731">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="428" y="70" width="1125" height="981" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.34.1848.1046@72.34.1848.1046" timestamp="1607396642731" />
+    <state x="575" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1607401482694">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="575" y="45" width="840" height="1034" key="search.everywhere.popup/72.34.1848.1046@72.34.1848.1046" timestamp="1607401482694" />
+  </component>
+</project>
